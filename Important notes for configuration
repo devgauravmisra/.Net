@@ -1,0 +1,4 @@
+This test app will work onlyu with visualstudio. Not for visualstudio code
+Need to update appid and secret key in payment.aspx, payment.aspx.cs,charge.aspx.cs, and upddate orderid also in payment.aspx file
+Put url like below on browser
+http://127.0.0.1:8080/Payment.aspx
